@@ -4,7 +4,7 @@ GW Data Analytics Bootcamp: ETL Project
 “DC Museums Ratings & Likes”
 Aya Heshmat, Linxi Zhao, & Sarah Osorio
 
-#Project Proposal
+# Project Proposal
 After requesting API data from the Yelp website, our team will scrape information from Instagram to create a database of a handful of DC Museums. The database will include yelp ratings, # of comments and likes from the first load of Instagram posts from museum hashtags.
 
 
