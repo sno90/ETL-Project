@@ -9,7 +9,7 @@ After requesting API data from the Yelp website, our team will scrape informatio
 
 
 ## EXTRACT
-Finding Data
+Finding Data<br>
 Using the Yelp API documentation, we were able to pull dictionary keys from a direct search including the following parameters: term includes “museum” and location = “dc”. The data was converted to a json object that includes: name of museum, hashtag of museum, number of ratings, and rating for the museum. The data was exported as a csv file to import to the database. 
 
 The Instagram data was pulled via web-scraping the html of each museum hashtag. We extracted html elements including: the hashtag, the unique Instagram url for each post, number of likes per post, and number of comments per post. The lists of the data were converted to a json object and exported as a csv to import to the database.
